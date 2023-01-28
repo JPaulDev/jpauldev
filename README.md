@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Watson</h1>
+<h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">Biologist by degree, web developer by passion.</h3>
 
 - 👨‍💻 All of my projects are available at [www.jonathanwatson.co.uk](www.jonathanwatson.co.uk)
