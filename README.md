@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [www.jonathanwatson.co.uk](www.jonathanwatson.co.uk)
 - 💬 Ask me about **react, next.js, tailwind css, styled components and typescript**
 - 📫 How to reach me **jwatson88@live.co.uk**
-- ⚡ Fun fact **I enjoyed learning about pointers.**
+- ⚡ Fun fact **I enjoyed learning about pointers**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
