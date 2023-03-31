@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">Biologist by degree, web developer by passion.</h3>
+<h3 align="center">Biologist by degree, developer by passion.</h3>
 
 - 👨‍💻 All of my projects are available at [https://jonathanwatson.co.uk](https://jonathanwatson.co.uk)
 - 💬 Ask me about **react, next.js, tailwind css, styled components and typescript**
