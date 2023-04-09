@@ -2,9 +2,9 @@
 <h3 align="center">Biologist by degree, developer by passion.</h3>
 
 - 👨‍💻 All of my projects are available at [https://jonathanwatson.co.uk](https://jonathanwatson.co.uk)
-- 💬 Ask me about **react, next.js, tailwind css, styled components and typescript**
+- 💬 Ask me about **React, Next.js, Tailwind CSS, Styled Components and TypeScript.**
 - 📫 How to reach me **jwatson88@live.co.uk**
-- ⚡ Fun fact **I enjoyed learning about pointers**
+- ⚡ Fun fact **My favourite array method is reduce.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
